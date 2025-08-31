@@ -24,22 +24,6 @@
 </p>
 
 ---
-
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://github.com/azlanabdulla">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
-
----
-
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azlanabdulla&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
