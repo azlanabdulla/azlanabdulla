@@ -19,7 +19,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=azlanabdulla&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
