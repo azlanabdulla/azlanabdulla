@@ -81,10 +81,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
   <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
 </picture>
-<div align="center">
 
-### ⭐ Thanks for visiting!
-
-*"Code. Learn. Build. Repeat."*
-
-</div>
