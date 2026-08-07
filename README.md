@@ -14,22 +14,6 @@
 
 <br>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<div align="center">
-
-🎓 Student passionate about technology
-
-🤖 Interested in Artificial Intelligence & Machine Learning
-
-🌐 Building Full Stack Applications
-
-💡 Always exploring new technologies and solving real-world problems
-
-</div>
-
-<br>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <h3 align="center">Programming Languages</h3>
