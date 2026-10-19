@@ -1,11 +1,6 @@
 <div align="center">
 
 # Hi 👋, I'm Azlan Abdulla
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="azlanabdulla's GitHub profile" src="dark_mode.svg" />
-</picture>
 
 ### Artificial Intelligence Enthusiast • Python Developer • Full Stack Developer
 
