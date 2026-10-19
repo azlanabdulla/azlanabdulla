@@ -63,11 +63,3 @@
 
 <br>
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
-  <img alt="GitHub contribution animation" src="https://threeal.github.io/threeal/grid-snake.svg" />
-</picture>
-
